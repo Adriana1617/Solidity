@@ -1,0 +1,6 @@
+Smart Contracts 
+
+
+** Version ** 
+Todo contrato dene empezar especificando la version que debe usar el compilador 
+pragma solidity ^0.8.20;
